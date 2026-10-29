@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "QimeraDLSS",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Taha Mimarlar",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "QimeraDLSS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

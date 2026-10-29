@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "QimeraSeeder",
+	"Description": "This is an implementation to handle SEEDER connections",
+	"Category": "Other",
+	"CreatedBy": "Ricardo Lucano",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "QimeraSeeder",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

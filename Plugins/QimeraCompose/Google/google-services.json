@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "254573381821",
+    "firebase_url": "https://qimera-98236-default-rtdb.firebaseio.com",
+    "project_id": "qimera-98236",
+    "storage_bucket": "qimera-98236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254573381821:android:a6ef6610dce57ab7ac0fd4",
+        "android_client_info": {
+          "package_name": "com.QimeraCorp.Qimera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPw2AHdIbB5ZD65Zv_hhd9VxRyr0z3To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.3",
+	"FriendlyName": "BlueprintXML",
+	"Description": "An XML parser for Blueprint",
+	"Category": "XML",
+	"CreatedBy": "Pandores",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/Pandoa/BlueprintXML/blob/master/README.md",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1cd8663b1b0c448da5ad5db59d8b7e23",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BlueprintXML",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Mac",
+				"IOS",
+				"Android",
+				"Linux"
+			]
+		}
+	]
+}

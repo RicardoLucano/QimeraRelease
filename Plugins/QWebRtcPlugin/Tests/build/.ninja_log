@@ -1,0 +1,4 @@
+# ninja log v5
+4	562	8053210994445024	CMakeFiles/qwebrtc_plugin_tests.dir/test_main.cpp.obj	e95e7ae6142baa97
+10	587	8053210994628489	CMakeFiles/qwebrtc_plugin_tests.dir/test_plugin_api.cpp.obj	ae0606353ec05ea7
+587	1215	8053210999646805	qwebrtc_plugin_tests.exe	b2b2b477910393d0

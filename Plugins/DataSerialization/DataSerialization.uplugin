@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.1",
+	"FriendlyName": "DataSerialization",
+	"Description": "A plugin that provides blueprint nodes to parse formatted strings and to stringify data tables.",
+	"Category": "Code Plugins",
+	"CreatedBy": "Incanta Games",
+	"CreatedByURL": "https://incanta.games",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/51bfff9f8bc34c3d8072b31455965276",
+	"SupportURL": "https://discord.gg/5hFrK2D",
+
+	"CanContainContent": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DataSerialization",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Mac",
+				"Linux",
+				"LinuxAArch64"
+			]
+		}
+	]
+}

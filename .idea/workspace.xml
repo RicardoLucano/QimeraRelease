@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6634ea5f-b0ee-4ecc-b3d9-272f3578e3c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QimeraCompose5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QimeraCompose5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/TalentTrackerTest.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/TalentTrackerTest.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/preset1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/preset1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/QimeraCompose/Content/QimeraTracking/Bps/ShadowAndReflectionPlaneParent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/QimeraCompose/Content/QimeraTracking/Bps/ShadowAndReflectionPlaneParent.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/QimeraCompose/Source/QimeraCompose/Private/QimeraCommandExecutor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/QimeraCompose/Source/QimeraCompose/Private/QimeraCommandExecutor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/QimeraCompose/Source/QimeraCompose/Private/QimeraDMXSubsystem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/QimeraCompose/Source/QimeraCompose/Private/QimeraDMXSubsystem.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/QimeraCompose/Source/QimeraCompose/Private/Tracking/QimeraTalentTrackerPresetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/QimeraCompose/Source/QimeraCompose/Private/Tracking/QimeraTalentTrackerPresetController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/QimeraCompose/Source/QimeraCompose/Public/QimeraCommandExecutor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/QimeraCompose/Source/QimeraCompose/Public/QimeraCommandExecutor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/TalentTracker/Source/TalentTracker/Private/TalentTrackerSubsystem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/TalentTracker/Source/TalentTracker/Private/TalentTrackerSubsystem.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/TalentTracker/Source/TalentTracker/Public/TalentTrackerSubsystem.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/TalentTracker/Source/TalentTracker/Public/TalentTrackerSubsystem.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_E:/QimeraV5" value="3DJdSTufoMf19zZrX8WVXLUR1d3" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="17437" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3DJdSTufoMf19zZrX8WVXLUR1d3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "5.6-Development",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6634ea5f-b0ee-4ecc-b3d9-272f3578e3c3" name="Changes" comment="" />
+      <created>1778004107055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778004107055</updated>
+      <workItem from="1778004109004" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
