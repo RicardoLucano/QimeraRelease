@@ -1,14 +1,0 @@
-Detecting CXX compiler ABI info failed to compile with the following output:
-Change Dir: C:/Users/RiccardSth/Desktop/webrtc_integration/cpp/QWebRtcPlugin/Tests/build/CMakeFiles/CMakeTmp
-
-Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_184d5 && [1/2] Building CXX object CMakeFiles\cmTC_184d5.dir\CMakeCXXCompilerABI.cpp.obj
-[2/2] Linking CXX executable cmTC_184d5.exe
-FAILED: cmTC_184d5.exe 
-cmd.exe /C "cd . && "C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_184d5.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100261~1.0\x64\rc.exe --mt=C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\Llvm\x64\bin\llvm-mt.exe --manifests  -- C:\webrtc\src\third_party\llvm-build\Release+Asserts\bin\lld-link.exe /nologo CMakeFiles\cmTC_184d5.dir\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_184d5.exe /implib:cmTC_184d5.lib /pdb:cmTC_184d5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console   && cd ."
-FINAL LINK: command "C:\webrtc\src\third_party\llvm-build\Release+Asserts\bin\lld-link.exe /nologo CMakeFiles\cmTC_184d5.dir\CMakeCXXCompilerABI.cpp.obj /out:cmTC_184d5.exe /implib:cmTC_184d5.lib /pdb:cmTC_184d5.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_184d5.dir/intermediate.manifest CMakeFiles\cmTC_184d5.dir/manifest.res" failed (exit code 1) with the following output:
-lld-link: error: failed to write output 'cmTC_184d5.exe': permission denied
-ninja: build stopped: subcommand failed.
-
-
-
-

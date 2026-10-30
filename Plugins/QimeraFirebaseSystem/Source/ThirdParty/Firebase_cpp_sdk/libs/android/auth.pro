@@ -1,0 +1,16 @@
+
+-ignorewarnings
+-keep class retrofit.** { *; }
+-keep,includedescriptorclasses public class com.google.firebase.FirebaseException { *; }
+-keep,includedescriptorclasses public class com.google.firebase.app.internal.cpp.Log { *; }
+-keep,includedescriptorclasses public class com.google.firebase.auth.FirebaseAuth { *; }
+-keep,includedescriptorclasses public class com.google.firebase.auth.FirebaseAuth$AuthStateListener { *; }
+-keep,includedescriptorclasses public class com.google.firebase.auth.FirebaseAuth$IdTokenListener { *; }
+-keep,includedescriptorclasses public class com.google.firebase.auth.PhoneAuthCredential { *; }
+-keep,includedescriptorclasses public class com.google.firebase.auth.PhoneAuthProvider { *; }
+-keep,includedescriptorclasses public class com.google.firebase.auth.PhoneAuthProvider$ForceResendingToken { *; }
+-keep,includedescriptorclasses public class com.google.firebase.auth.PhoneAuthProvider$OnVerificationStateChangedCallbacks { *; }
+-keep,includedescriptorclasses public class com.google.firebase.example.LoggingUtils { * ; }
+-keepattributes *Annotation*
+-keepattributes Signature
+-keepclasseswithmembers class * { @retrofit.http.* <methods>; }

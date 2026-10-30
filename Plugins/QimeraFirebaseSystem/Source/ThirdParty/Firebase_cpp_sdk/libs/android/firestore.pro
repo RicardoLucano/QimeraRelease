@@ -1,0 +1,18 @@
+
+-ignorewarnings
+-keep,includedescriptorclasses public class com.google.android.gms.tasks.CancellationTokenSource { * ; }
+-keep,includedescriptorclasses public class com.google.android.gms.tasks.Continuation { *; }
+-keep,includedescriptorclasses public class com.google.android.gms.tasks.OnCompleteListener { *; }
+-keep,includedescriptorclasses public class com.google.android.gms.tasks.Task { *; }
+-keep,includedescriptorclasses public class com.google.android.gms.tasks.TaskCompletionSource { * ; }
+-keep,includedescriptorclasses public class com.google.android.gms.tasks.TaskCompletionSource { *; }
+-keep,includedescriptorclasses public class com.google.firebase.example.LoggingUtils { * ; }
+-keep,includedescriptorclasses public class com.google.firebase.firestore.DocumentSnapshot { *; }
+-keep,includedescriptorclasses public class com.google.firebase.firestore.EventListener { *; }
+-keep,includedescriptorclasses public class com.google.firebase.firestore.FirebaseFirestoreException { *; }
+-keep,includedescriptorclasses public class com.google.firebase.firestore.FirebaseFirestoreException$Code { *; }
+-keep,includedescriptorclasses public class com.google.firebase.firestore.LoadBundleTaskProgress { *; }
+-keep,includedescriptorclasses public class com.google.firebase.firestore.OnProgressListener { *; }
+-keep,includedescriptorclasses public class com.google.firebase.firestore.QuerySnapshot { *; }
+-keep,includedescriptorclasses public class com.google.firebase.firestore.Transaction { *; }
+-keep,includedescriptorclasses public class com.google.firebase.firestore.Transaction$Function { *; }

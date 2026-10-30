@@ -1,3 +1,0 @@
-C:/Users/RiccardSth/Desktop/webrtc_integration/cpp/QWebRtcPlugin/Tests/build/CMakeFiles/qwebrtc_plugin_tests.dir
-C:/Users/RiccardSth/Desktop/webrtc_integration/cpp/QWebRtcPlugin/Tests/build/CMakeFiles/edit_cache.dir
-C:/Users/RiccardSth/Desktop/webrtc_integration/cpp/QWebRtcPlugin/Tests/build/CMakeFiles/rebuild_cache.dir
