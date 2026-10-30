@@ -1,0 +1,18 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"AntilatencyAltEnvironmentAdditionalMarkers": "UnrealEditor-AntilatencyAltEnvironmentAdditionalMarkers.dll",
+		"AntilatencyAltEnvironmentArbitrary2D": "UnrealEditor-AntilatencyAltEnvironmentArbitrary2D.dll",
+		"AntilatencyAltEnvironmentHorizontalGrid": "UnrealEditor-AntilatencyAltEnvironmentHorizontalGrid.dll",
+		"AntilatencyAltEnvironmentPillars": "UnrealEditor-AntilatencyAltEnvironmentPillars.dll",
+		"AntilatencyAltEnvironmentSelector": "UnrealEditor-AntilatencyAltEnvironmentSelector.dll",
+		"AntilatencyAltTracking": "UnrealEditor-AntilatencyAltTracking.dll",
+		"AntilatencyBracer": "UnrealEditor-AntilatencyBracer.dll",
+		"AntilatencyDeviceNetwork": "UnrealEditor-AntilatencyDeviceNetwork.dll",
+		"AntilatencyHardwareExtensionInterface": "UnrealEditor-AntilatencyHardwareExtensionInterface.dll",
+		"AntilatencyRadioMetrics": "UnrealEditor-AntilatencyRadioMetrics.dll",
+		"AntilatencyStorageClient": "UnrealEditor-AntilatencyStorageClient.dll",
+		"AntilatencyTrackingAlignment": "UnrealEditor-AntilatencyTrackingAlignment.dll"
+	}
+}

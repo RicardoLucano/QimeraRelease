@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"QimeraCompose": "UnrealEditor-QimeraCompose.dll",
+		"QimeraComposeEditor": "UnrealEditor-QimeraComposeEditor.dll"
+	}
+}

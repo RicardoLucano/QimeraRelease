@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"QimeraVisca": "UnrealEditor-QimeraVisca.dll",
+		"ViscaCore": "UnrealEditor-ViscaCore.dll"
+	}
+}

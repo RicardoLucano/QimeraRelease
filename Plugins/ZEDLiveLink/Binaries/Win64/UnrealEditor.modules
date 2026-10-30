@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"ZEDLiveLink": "UnrealEditor-ZEDLiveLink.dll",
+		"ZEDLiveLinkEditor": "UnrealEditor-ZEDLiveLinkEditor.dll"
+	}
+}

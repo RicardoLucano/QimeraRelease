@@ -1,0 +1,9 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"QimeraDataExposer": "UnrealEditor-QimeraDataExposer.dll",
+		"QimeraDataSync": "UnrealEditor-QimeraDataSync.dll",
+		"QimeraHubBridge": "UnrealEditor-QimeraHubBridge.dll"
+	}
+}
